@@ -4,6 +4,7 @@ Multi-GPU to train Imagenet by different models
 # First download the Imagenet dataset using the official script and transform to TFRecord
 
 like 
+
 ![1](/img/1.PNG)
 ![2](/img/2.PNG)
 
